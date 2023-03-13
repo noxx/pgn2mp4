@@ -1,0 +1,5 @@
+- napravi output imenovanje i automatsko imenovanje
+- popravi sound delay
+/home/gavric/Dropbox/Documents/projects/from_github/lila/public/sound
+dodaj 3d 
+dodaj animaciju
